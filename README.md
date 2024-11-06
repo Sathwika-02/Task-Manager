@@ -70,7 +70,7 @@ After setting up the environment variables, you can start the application.
 ### Step 1: Start the Backend Server
 Navigate to the server directory and start the backend server:
 ```
-cd server
+cd backend
 node index.js
 ```
 
